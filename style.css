@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .hd1
 {
  background-color: aquamarine;
@@ -6,3 +7,20 @@
 {
     border:2px solid black;
 }
+=======
+
+.div1 {
+  border-left: 6px solid green;
+  height: 450px;
+  margin: 200px;
+  position: absolute;top: 200px;
+
+}
+.div2
+ {
+    text-align: right;top: 100px;;
+    
+     
+ }
+
+>>>>>>> a545250 (ok)
