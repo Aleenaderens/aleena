@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lilita+One&display=swap');
+
+.alee
+{
+  padding-left: 200px;
+ 
+}
+.ashw
+{
+    color: white;
+    padding-left: 400px;
+    margin-top: 50px;
+}
+.der
+{
+    color: white;
+    text-align: center;
+    margin-top: 400px;
+    font-family: 'Lilita One', cursive;
+}
+.ms
+{
+    padding-left: 900px;
+    margin-top: 200px;
+}
+.arj
+{
+    height: 800px;
+    width: 100%
+}
+.kal
+{
+   text-align: center;
+    margin-top: 100px;
+    font-family: 'Abril Fatface', cursive;
+   font-family: 'Lilita One', cursive;
+  
+}
+.kar
+{
+    text-align: center;
+    margin-top: 30px;
+
+}
+.anu
+{
+   margin-left: 400px;
+}
+.hd1
+{
+    padding-top: 200px;
+}
+.gok
+{
+    text-decoration: none;
+    color: wheat;
+    margin-left: 20px;
+   
+}
+.dil
+{
+    padding-left: 300px;
+    margin-top: 500px;
+
+}
+.dill
+{
+    padding-left: 270px;
+    padding-top: 15px;
+}
+.care
+{
+    padding-left: 370px;
+    margin-top: 500px;
+
+}
+.caree
+{
+    padding-left: 350px;
+    padding-top: 15px;
+}
+.cath1
+{
+  
+    padding-left: 250px;
+    margin-top: 340px;
+}
+.cath2
+{
+    padding-left: 80px;
+    margin-top: 70px;  
+}
+.cath3
+{
+    padding-left: 260px;
+    margin-top: 50px;  
+}
+.cath4
+{
+    padding-left: 230px;
+    margin-top: 20px;
+    color: rgb(174, 149, 149); 
+}
+.cath5
+{
+    margin-left: 240px;
+    margin-top: 20px;  
+    color: rgb(174, 149, 149);
+}
+.bord
+{
+    color: rgb(207, 177, 177);
+    margin-top: 180px;
+    padding-left: 80px;
+}
+.rounded-circle
+{
+   margin-left: 210px;
+    margin-top: 100px;
+
+}
+#i
+{
+    margin-left: 210px;
+    margin-top: 340px;
+}
+#i1{
+    margin-left: 210px;
+    margin-top: 340px;
+
+}
+
+
+.cath8
+{
+   margin-left: 245px;
+    margin-top: 40px;
+}
+.cath9
+{
+    padding-left: 230px;
+    margin-top: 40px;
+}
+.cath10
+{
+    padding-left: 200px;
+    margin-top: 20px;
+    color: rgb(174, 149, 149);
+}
+.nav-item
+{
+  margin-top: 140px;
+  margin-left: 60px;
+}
+.nil
+{
+ 
+  padding-left: 800px;
+   
+}
+.nil img{
+    padding-right: 108px;
+}
+.navbar-nav .nav-link{
+    font-weight: 700;
+    color: white;
+    margin-left: 50px;
+
+}
+.navbar-nav .nav-link:hover{
+    color: orange;
+}
+.nav-link1
+{
+    border-radius: 8px;
+    text-decoration: none;
+    
+}
